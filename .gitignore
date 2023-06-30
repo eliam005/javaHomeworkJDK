@@ -1,0 +1,4 @@
+## Игнорирование файлов и папок
+/.idea/
+/out/
+javaHomeworkJDK1.iml
